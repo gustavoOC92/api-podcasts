@@ -1,0 +1,20 @@
+[
+    {
+            "podcastName": "Flow",
+            "episode": "EDITOR-CHEFE DA CITADEL EDITORA - Marcial Conte",
+            "videoId": "t_Bvzq3K3g8",
+            "category": ["finanças", "diversos"]
+    },
+    {
+            "podcastName": "Flow",
+            "episode": "PROCURANDO UM CARRO NOVO PRA PATROA",
+            "videoId": "Fv-evhYthBs",            
+            "category": ["carro", "familia"]
+    },
+    {
+            "podcastName": "Inteligencia",
+            "episode": "DEBATE PRESIDENCIAL 2026",
+            "videoId": "Fv-evhYthBs",            
+            "category": ["eleições", "politica"]
+    }
+]
